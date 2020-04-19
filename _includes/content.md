@@ -1,1 +1,1 @@
-![app_image_01](https://raw.githubusercontent.com/Movie-Note/movienote.github.io/master/images/logo.png)
+<img src="{{site.baseurl}}/images/01_app_screen.png" alt="" width="50%" class="center">

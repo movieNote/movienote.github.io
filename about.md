@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### More Information
-
-My name is Willy Breitenbach.
+Hi, my name is Willy Breitenbach. Human, husband and iOS-Developer ;)
 
 ### Contact me
 
