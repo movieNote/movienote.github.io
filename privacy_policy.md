@@ -6,7 +6,7 @@ permalink: /privacy_policy/
 
 ## Movie Note
 
-<div align="justify">Movie Note does not collect or store any kind of data. Apple might collect data when you use Movie Note. For more information vist <a href="https://www.apple.com/legal/privacy/">Apple privacy policy</a></div>
+<div align="justify">Movie Note does not collect or store any kind of data. Apple might collect data when you use Movie Note. For more information visit <a href="https://www.apple.com/legal/privacy/">Apple privacy policy</a>.</div>
 
 ## TMDB
 
